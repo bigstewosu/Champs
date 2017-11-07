@@ -1,0 +1,223 @@
+Year,League,Team,State
+1950,NBA,Minneapolis Lakers,Minnesota
+1950,MLB,New York Yankees,New York
+1950,NHL,Detroit Red Wings,Michigan
+1951,NBA,Rochester Royals,New York
+1951,MLB,New York Yankees,New York
+1952,NBA,Minneapolis Lakers,Minnesota
+1952,MLB,New York Yankees,New York
+1952,NHL,Detroit Red Wings,Michigan
+1953,NBA,Minneapolis Lakers,Minnesota
+1953,MLB,New York Yankees,New York
+1954,NBA,Minneapolis Lakers,Minnesota
+1954,MLB,New York Giants,New York
+1954,NHL,Detroit Red Wings,Michigan
+1955,NBA,Syracuse Nationals,New York
+1955,MLB,Brooklyn Dodgers,New York
+1955,NHL,Detroit Red Wings,Michigan
+1956,NBA,Philadelphia Warriors,Pennsylvania
+1956,MLB,New York Yankees,New York
+1957,NBA,Boston Celtics,Massachusetts
+1957,MLB,Milwaukee Braves,Wisconsin
+1958,NBA,St. Louis Hawks,Missouri
+1958,MLB,New York Yankees,New York
+1959,NBA,Boston Celtics,Massachusetts
+1959,MLB,Los Angeles Dodgers,California
+1960,NBA,Boston Celtics,Massachusetts
+1960,MLB,Pittsburgh Pirates,Pennsylvania
+1961,NBA,Boston Celtics,Massachusetts
+1961,MLB,New York Yankees,New York
+1961,NHL,Chicago Blackhawks,Illinois
+1962,NBA,Boston Celtics,Massachusetts
+1962,MLB,New York Yankees,New York
+1963,NBA,Boston Celtics,Massachusetts
+1963,MLB,Los Angeles Dodgers,California
+1964,NBA,Boston Celtics,Massachusetts
+1964,MLB,St. Louis Cardinals,Missouri
+1965,NBA,Boston Celtics,Massachusetts
+1965,MLB,Los Angeles Dodgers,California
+1966,NBA,Boston Celtics,Massachusetts
+1966,MLB,Baltimore Orioles,Maryland
+1967,NBA,Philadelphia 76ers,Pennsylvania
+1967,MLB,St. Louis Cardinals,Missouri
+1967,NFL,Green Bay,Wisconsin
+1968,NBA,Boston Celtics,Massachusetts
+1968,MLB,Detroit Tigers,Michigan
+1968,NFL,Green Bay,Wisconsin
+1969,NBA,Boston Celtics,Massachusetts
+1969,MLB,New York Mets,New York
+1969,NFL,NY Jets,New York
+1970,NBA,New York Knicks,New York
+1970,MLB,Baltimore Orioles,Maryland
+1970,NFL,Kansas City,Missouri
+1970,NHL,Boston Bruins,Massachusetts
+1971,NBA,Milwaukee Bucks,Wisconsin
+1971,MLB,Pittsburgh Pirates,Pennsylvania
+1971,NFL,Baltimore,Maryland
+1972,NBA,Los Angeles Lakers,California
+1972,MLB,Oakland Athletics,California
+1972,NFL,Dallas,Texas
+1972,NHL,Boston Bruins,Massachusetts
+1973,NBA,New York Knicks,New York
+1973,MLB,Oakland Athletics,California
+1973,NFL,Miami,Florida
+1974,NBA,Boston Celtics,Massachusetts
+1974,MLB,Oakland Athletics,California
+1974,NFL,Miami,Florida
+1974,NHL,Philadelphia Flyers,Pennsylvania
+1975,NBA,Golden State Warriors,California
+1975,MLB,Cincinnati Reds,Ohio
+1975,NFL,Pittsburgh,Pennsylvania
+1975,NHL,Philadelphia Flyers,Pennsylvania
+1976,NBA,Boston Celtics,Massachusetts
+1976,MLB,Cincinnati Reds,Ohio
+1976,NFL,Pittsburgh,Pennsylvania
+1977,NBA,Portland Trail Blazers,Oregon
+1977,MLB,New York Yankees,New York
+1977,NFL,Oakland,California
+1978,NBA,Washington Bullets,Washington DC
+1978,MLB,New York Yankees,New York
+1978,NFL,Dallas,Texas
+1979,NBA,Seattle SuperSonics,Washington
+1979,MLB,Pittsburgh Pirates,Pennsylvania
+1979,NFL,Pittsburgh,Pennsylvania
+1980,NBA,Los Angeles Lakers,California
+1980,MLB,Philadelphia Phillies,Pennsylvania
+1980,NFL,Pittsburgh,Pennsylvania
+1980,NHL,New York Islanders,New York
+1981,NBA,Boston Celtics,Massachusetts
+1981,MLB,Los Angeles Dodgers,California
+1981,NFL,Oakland,California
+1981,NHL,New York Islanders,New York
+1982,NBA,Los Angeles Lakers,California
+1982,MLB,St. Louis Cardinals,Missouri
+1982,NFL,San Francisco,California
+1982,NHL,New York Islanders,New York
+1983,NBA,Philadelphia 76ers,Pennsylvania
+1983,MLB,Baltimore Orioles,Maryland
+1983,NFL,Washington,Washington DC
+1983,NHL,New York Islanders,New York
+1984,NBA,Boston Celtics,Massachusetts
+1984,MLB,Detroit Tigers,Michigan
+1984,NFL,LA Raiders,California
+1985,NBA,Los Angeles Lakers,California
+1985,MLB,Kansas City Royals,Missouri
+1985,NFL,San Francisco,California
+1986,NBA,Boston Celtics,Massachusetts
+1986,MLB,New York Mets,New York
+1986,NFL,Chicago,Illinois
+1987,NBA,Los Angeles Lakers,California
+1987,MLB,Minnesota Twins,Minnesota
+1987,NFL,NY Giants,New York
+1988,NBA,Los Angeles Lakers,California
+1988,MLB,Los Angeles Dodgers,California
+1988,NFL,Washington,Washington DC
+1989,NBA,Detroit Pistons,Michigan
+1989,MLB,Oakland Athletics,California
+1989,NFL,San Francisco,California
+1990,NBA,Detroit Pistons,Michigan
+1990,MLB,Cincinnati Reds,Ohio
+1990,NFL,San Francisco,California
+1991,NBA,Chicago Bulls,Illinois
+1991,MLB,Minnesota Twins,Minnesota
+1991,NFL,NY Giants,New York
+1991,NHL,Pittsburgh Penguins,Pennsylvania
+1992,NBA,Chicago Bulls,Illinois
+1992,NFL,Washington,Washington DC
+1992,NHL,Pittsburgh Penguins,Pennsylvania
+1993,NBA,Chicago Bulls,Illinois
+1993,NFL,Dallas,Texas
+1994,NBA,Houston Rockets,Texas
+1994,NFL,Dallas,Texas
+1994,NHL,New York Rangers,New York
+1995,NBA,Houston Rockets,Texas
+1995,MLB,Atlanta Braves,Georgia
+1995,NFL,San Francisco,California
+1995,NHL,New Jersey Devils,New Jersey
+1996,NBA,Chicago Bulls,Illinois
+1996,MLB,New York Yankees,New York
+1996,NFL,Dallas,Texas
+1996,NHL,Colorado Avalanche,Colorado
+1997,NBA,Chicago Bulls,Illinois
+1997,MLB,Florida Marlins,Florida
+1997,NFL,Green Bay,Wisconsin
+1997,NHL,Detroit Red Wings,Michigan
+1998,NBA,Chicago Bulls,Illinois
+1998,MLB,New York Yankees,New York
+1998,NFL,Denver,Colorado
+1998,NHL,Detroit Red Wings,Michigan
+1999,NBA,San Antonio Spurs,Texas
+1999,MLB,New York Yankees,New York
+1999,NFL,Denver,Colorado
+1999,NHL,Dallas Stars,Texas
+2000,NBA,Los Angeles Lakers,California
+2000,MLB,New York Yankees,New York
+2000,NFL,St Louis,Missouri
+2000,NHL,New Jersey Devils,New Jersey
+2001,NBA,Los Angeles Lakers,California
+2001,MLB,Arizona Diamondbacks,Arizona
+2001,NFL,Baltimore,Maryland
+2001,NHL,Colorado Avalanche,Colorado
+2002,NBA,Los Angeles Lakers,California
+2002,MLB,Anaheim Angels,California
+2002,NFL,New England,Massachusetts
+2002,NHL,Detroit Red Wings,Michigan
+2003,NBA,San Antonio Spurs,Texas
+2003,MLB,Florida Marlins,Florida
+2003,NFL,Tampa Bay,Florida
+2003,NHL,New Jersey Devils,New Jersey
+2004,NBA,Detroit Pistons,Michigan
+2004,MLB,Boston Red Sox,Massachusetts
+2004,NFL,New England,Massachusetts
+2004,NHL,Tampa Bay Lightning,Florida
+2005,NBA,San Antonio Spurs,Texas
+2005,MLB,Chicago White Sox,Illinois
+2005,NFL,New England,Massachusetts
+2006,NBA,Miami Heat,Florida
+2006,MLB,St. Louis Cardinals,Missouri
+2006,NFL,Pittsburgh,Pennsylvania
+2006,NHL,Carolina Hurricanes,North Carolina
+2007,NBA,San Antonio Spurs,Texas
+2007,MLB,Boston Red Sox,Massachusetts
+2007,NFL,Indianapolis Colts,Indiana
+2007,NHL,Anaheim Ducks,California
+2008,NBA,Boston Celtics,Massachusetts
+2008,MLB,Philadelphia Phillies,Pennsylvania
+2008,NFL,New York Giants,New York
+2008,NHL,Detroit Red Wings,Michigan
+2009,NBA,Los Angeles Lakers,California
+2009,MLB,New York Yankees,New York
+2009,NFL,Pittsburgh Steelers,Pennsylvania
+2009,NHL,Pittsburgh Penguins,Pennsylvania
+2010,NBA,Los Angeles Lakers,California
+2010,MLB,San Francisco Giants,California
+2010,NFL,New Orleans Saints,Louisiana
+2010,NHL,Chicago Blackhawks,Illinois
+2011,NBA,Dallas Mavericks,Texas
+2011,MLB,St. Louis Cardinals,Missouri
+2011,NFL,Green Bay Packers,Wisconsin
+2011,NHL,Boston Bruins,Massachusetts
+2012,NBA,Miami Heat,Florida
+2012,MLB,San Francisco Giants,California
+2012,NFL,New York Giants,New York
+2012,NHL,Los Angeles Kings,California
+2013,NBA,Miami Heat,Florida
+2013,MLB,Boston Red Sox,Massachusetts
+2013,NFL,Baltimore Ravens,Maryland
+2013,NHL,Chicago Blackhawks,Illinois
+2014,NBA,San Antonio Spurs,Texas
+2014,MLB,San Francisco Giants,California
+2014,NFL,Seattle Seahawks,Washington
+2014,NHL,Los Angeles Kings,California
+2015,NBA,Golden State Warriors,California
+2015,MLB,Kansas City Royals,Missouri
+2015,NFL,New England Patriots,Massachusetts
+2015,NHL,Chicago Blackhawks,Illinois
+2016,NBA,Cleveland Cavaliers,Ohio
+2016,MLB,Chicago Cubs,Illinois
+2016,NFL,Denver Broncos,Colorado
+2016,NHL,Pittsburgh Penguins,Pennsylvania
+2017,NBA,Golden State Warriors,California
+2017,MLB,Houston Astros,Texas
+2017,NFL,New England Patriots,Massachusetts
+2017,NHL,Pittsburgh Penguins,Pennsylvania
